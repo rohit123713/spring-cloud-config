@@ -10,5 +10,3 @@ spring:
     show-sql: true
     properties:
        format_sql: true
-server:
-    port: 8023
