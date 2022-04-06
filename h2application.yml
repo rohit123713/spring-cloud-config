@@ -1,4 +1,4 @@
 spring:
   datasource:
-    username: sa
-    password: password
+     username: sa
+     password: password
