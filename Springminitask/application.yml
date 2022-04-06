@@ -1,7 +1,7 @@
 spring:
   datasource:
-    username: rohit
-    password: rohit
+    username: sa
+    password: password
     url: jdbc:h2:file:~/demodb
     driverClassName: org.h2.Driver
   jpa:
